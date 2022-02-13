@@ -1,1 +1,1606 @@
-[{"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 16.08, "feels_like": 15.94, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 84}, "visibility": 10000, "wind": {"speed": 4.63, "deg": 120}, "clouds": {"all": 100}, "dt": 1642519445, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 16.02, "feels_like": 15.87, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 84}, "visibility": 10000, "wind": {"speed": 4.63, "deg": 120}, "clouds": {"all": 100}, "dt": 1642520605, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.95, "feels_like": 15.82, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 1.79, "deg": 67, "gust": 4.92}, "clouds": {"all": 100}, "dt": 1642522230, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.95, "feels_like": 15.82, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 1.79, "deg": 67, "gust": 4.92}, "clouds": {"all": 100}, "dt": 1642522230, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.95, "feels_like": 15.82, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 1.79, "deg": 67, "gust": 4.92}, "clouds": {"all": 100}, "dt": 1642522230, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.95, "feels_like": 15.82, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 1.79, "deg": 67, "gust": 4.92}, "clouds": {"all": 100}, "dt": 1642522230, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.95, "feels_like": 15.82, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 1.79, "deg": 67, "gust": 4.92}, "clouds": {"all": 100}, "dt": 1642522230, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.95, "feels_like": 15.82, "temp_min": 15.05, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 1.79, "deg": 67, "gust": 4.92}, "clouds": {"all": 100}, "dt": 1642522230, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642522800, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642523460, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642523460, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.91, "feels_like": 15.78, "temp_min": 14.81, "temp_max": 16.82, "pressure": 1017, "humidity": 85}, "visibility": 10000, "wind": {"speed": 2.24, "deg": 69, "gust": 6.26}, "clouds": {"all": 100}, "dt": 1642523460, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.38, "feels_like": 14.85, "temp_min": 14.14, "temp_max": 16.19, "pressure": 1026, "humidity": 72}, "visibility": 10000, "wind": {"speed": 3.58, "deg": 132, "gust": 9.39}, "rain": {"1h": 0.1}, "clouds": {"all": 100}, "dt": 1642590000, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642532892, "sunset": 1642583969}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}, {"coord": {"lon": 149.1281, "lat": -35.2835}, "weather": [{"id": 804, "main": "Clouds", "description": "overcast clouds", "icon": "04n"}], "base": "stations", "main": {"temp": 15.1, "feels_like": 14.65, "temp_min": 13.92, "temp_max": 16.26, "pressure": 1030, "humidity": 76}, "visibility": 10000, "wind": {"speed": 0.45, "deg": 95, "gust": 2.68}, "clouds": {"all": 100}, "dt": 1642676415, "sys": {"type": 2, "id": 2004200, "country": "AU", "sunrise": 1642619353, "sunset": 1642670345}, "timezone": 39600, "id": 2172517, "name": "Canberra", "cod": 200}]
+[
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 16.08,
+      "feels_like": 15.94,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 84
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.63,
+      "deg": 120
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642519445,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 16.02,
+      "feels_like": 15.87,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 84
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.63,
+      "deg": 120
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642520605,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.95,
+      "feels_like": 15.82,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.79,
+      "deg": 67,
+      "gust": 4.92
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522230,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.95,
+      "feels_like": 15.82,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.79,
+      "deg": 67,
+      "gust": 4.92
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522230,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.95,
+      "feels_like": 15.82,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.79,
+      "deg": 67,
+      "gust": 4.92
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522230,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.95,
+      "feels_like": 15.82,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.79,
+      "deg": 67,
+      "gust": 4.92
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522230,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.95,
+      "feels_like": 15.82,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.79,
+      "deg": 67,
+      "gust": 4.92
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522230,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.95,
+      "feels_like": 15.82,
+      "temp_min": 15.05,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.79,
+      "deg": 67,
+      "gust": 4.92
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522230,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642522800,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642523460,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642523460,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.91,
+      "feels_like": 15.78,
+      "temp_min": 14.81,
+      "temp_max": 16.82,
+      "pressure": 1017,
+      "humidity": 85
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.24,
+      "deg": 69,
+      "gust": 6.26
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642523460,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.38,
+      "feels_like": 14.85,
+      "temp_min": 14.14,
+      "temp_max": 16.19,
+      "pressure": 1026,
+      "humidity": 72
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.58,
+      "deg": 132,
+      "gust": 9.39
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642590000,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642532892,
+      "sunset": 1642583969
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 15.1,
+      "feels_like": 14.65,
+      "temp_min": 13.92,
+      "temp_max": 16.26,
+      "pressure": 1030,
+      "humidity": 76
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.45,
+      "deg": 95,
+      "gust": 2.68
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1642676415,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642619353,
+      "sunset": 1642670345
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 16.25,
+      "feels_like": 15.94,
+      "temp_min": 15.25,
+      "temp_max": 17.37,
+      "pressure": 1028,
+      "humidity": 77
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.89,
+      "deg": 92,
+      "gust": 4.02
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1642762811,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642705815,
+      "sunset": 1642756719
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.28,
+      "feels_like": 24.23,
+      "temp_min": 23.38,
+      "temp_max": 25.41,
+      "pressure": 1010,
+      "humidity": 56
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.89,
+      "deg": 297,
+      "gust": 2.68
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1643009700,
+    "sys": {
+      "type": 2,
+      "id": 2026701,
+      "country": "AU",
+      "sunrise": 1642965203,
+      "sunset": 1643015831
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 520,
+        "main": "Rain",
+        "description": "light intensity shower rain",
+        "icon": "09n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 19.35,
+      "feels_like": 19.43,
+      "temp_min": 18.03,
+      "temp_max": 20.28,
+      "pressure": 1011,
+      "humidity": 80
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.12,
+      "deg": 50
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 98
+    },
+    "dt": 1643022035,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1642965203,
+      "sunset": 1643015831
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 21.2,
+      "feels_like": 21.46,
+      "temp_min": 19.81,
+      "temp_max": 21.92,
+      "pressure": 1011,
+      "humidity": 80
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 1.34,
+      "deg": 282,
+      "gust": 4.92
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1643108415,
+    "sys": {
+      "type": 2,
+      "id": 2026701,
+      "country": "AU",
+      "sunrise": 1643051666,
+      "sunset": 1643102198
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 27.18,
+      "feels_like": 27.66,
+      "temp_min": 25.8,
+      "temp_max": 28.58,
+      "pressure": 1012,
+      "humidity": 51
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.45,
+      "deg": 284,
+      "gust": 2.68
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1643269388,
+    "sys": {
+      "type": 2,
+      "id": 2026701,
+      "country": "AU",
+      "sunrise": 1643224592,
+      "sunset": 1643274927
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 21.9,
+      "feels_like": 22,
+      "temp_min": 20.25,
+      "temp_max": 23.19,
+      "pressure": 1015,
+      "humidity": 71
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0.89,
+      "deg": 302,
+      "gust": 3.13
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1643281251,
+    "sys": {
+      "type": 2,
+      "id": 2026701,
+      "country": "AU",
+      "sunrise": 1643224592,
+      "sunset": 1643274927
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 500,
+        "main": "Rain",
+        "description": "light rain",
+        "icon": "10n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 24.07,
+      "feels_like": 24.54,
+      "temp_min": 21.7,
+      "temp_max": 25.41,
+      "pressure": 1015,
+      "humidity": 77
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.12,
+      "deg": 20
+    },
+    "rain": {
+      "1h": 0.15
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1643367402,
+    "sys": {
+      "type": 2,
+      "id": 2026701,
+      "country": "AU",
+      "sunrise": 1643311056,
+      "sunset": 1643361289
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 802,
+        "main": "Clouds",
+        "description": "scattered clouds",
+        "icon": "03d"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 25.09,
+      "feels_like": 25.51,
+      "temp_min": 21.86,
+      "temp_max": 28.48,
+      "pressure": 1007,
+      "humidity": 71
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.6,
+      "deg": 160
+    },
+    "clouds": {
+      "all": 40
+    },
+    "dt": 1643616394,
+    "sys": {
+      "type": 1,
+      "id": 9588,
+      "country": "AU",
+      "sunrise": 1643570447,
+      "sunset": 1643620365
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 20.84,
+      "feels_like": 21.17,
+      "temp_min": 19.81,
+      "temp_max": 21.82,
+      "pressure": 1008,
+      "humidity": 84
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 2.57,
+      "deg": 60
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 51
+    },
+    "dt": 1643626839,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1643570447,
+      "sunset": 1643620365
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 520,
+        "main": "Rain",
+        "description": "light intensity shower rain",
+        "icon": "09n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 16.22,
+      "feels_like": 16.17,
+      "temp_min": 14.52,
+      "temp_max": 17.93,
+      "pressure": 1014,
+      "humidity": 87
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.09,
+      "deg": 90
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1644317838,
+    "sys": {
+      "type": 2,
+      "id": 2026701,
+      "country": "AU",
+      "sunrise": 1644262154,
+      "sunset": 1644311168
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 18.42,
+      "feels_like": 18.09,
+      "temp_min": 16.49,
+      "temp_max": 20.71,
+      "pressure": 1013,
+      "humidity": 68
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 0,
+      "deg": 0
+    },
+    "clouds": {
+      "all": 56
+    },
+    "dt": 1644404419,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1644348617,
+      "sunset": 1644397511
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 803,
+        "main": "Clouds",
+        "description": "broken clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 18.74,
+      "feels_like": 18.73,
+      "temp_min": 16.92,
+      "temp_max": 20.15,
+      "pressure": 1016,
+      "humidity": 79
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 3.6,
+      "deg": 130
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 75
+    },
+    "dt": 1644490832,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1644435079,
+      "sunset": 1644483854
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  },
+  {
+    "coord": {
+      "lon": 149.1281,
+      "lat": -35.2835
+    },
+    "weather": [
+      {
+        "id": 804,
+        "main": "Clouds",
+        "description": "overcast clouds",
+        "icon": "04n"
+      }
+    ],
+    "base": "stations",
+    "main": {
+      "temp": 16.72,
+      "feels_like": 16.51,
+      "temp_min": 15.86,
+      "temp_max": 17.93,
+      "pressure": 1019,
+      "humidity": 79
+    },
+    "visibility": 10000,
+    "wind": {
+      "speed": 4.63,
+      "deg": 120
+    },
+    "rain": {
+      "1h": 0.1
+    },
+    "clouds": {
+      "all": 100
+    },
+    "dt": 1644576923,
+    "sys": {
+      "type": 2,
+      "id": 2004200,
+      "country": "AU",
+      "sunrise": 1644521541,
+      "sunset": 1644570195
+    },
+    "timezone": 39600,
+    "id": 2172517,
+    "name": "Canberra",
+    "cod": 200
+  }
+]

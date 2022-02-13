@@ -6,6 +6,7 @@ import time
 import schedule
 from controllers.data import job
 
+# lance la fonction job tt les jours a 12h
 schedule.every().days.at("12:00").do(job)
 
 while True:
